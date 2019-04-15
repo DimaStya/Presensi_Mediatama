@@ -1,0 +1,70 @@
+[17-Nov-2018 03:24:04 UTC] PHP Fatal error:  Unsupported operand types in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_guest.php on line 14
+[17-Nov-2018 03:24:36 UTC] PHP Fatal error:  Unsupported operand types in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_guest.php on line 14
+[21-Nov-2018 03:52:03 UTC] PHP Notice:  Undefined variable: guest_kode in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_guest.php on line 40
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:57:39 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined index: max(kode_sales) in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 11
+[22-Nov-2018 08:59:28 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 12
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: kode_perwakilan in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 6
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: kode_area in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 9
+[26-Dec-2018 07:44:57 UTC] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 15
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: kode_area in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 16
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 22
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: email in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 24
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: kode_area in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 26
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 26
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: email in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 26
+[26-Dec-2018 07:44:57 UTC] PHP Notice:  Undefined index: alamat_perwakilan in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 26
+[08-Jan-2019 03:05:07 UTC] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 15
+[08-Jan-2019 03:05:32 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 12
+[08-Jan-2019 03:27:02 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 12
+[08-Jan-2019 03:30:00 UTC] PHP Notice:  Undefined offset: 3 in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 12
+[08-Jan-2019 03:33:59 UTC] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 15
+[08-Jan-2019 03:37:31 UTC] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 15
+[10-Jan-2019 08:45:13 UTC] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_perwakilan.php on line 15
+[23-Jan-2019 09:20:40 UTC] PHP Notice:  Undefined variable: upuser in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 59
+[23-Jan-2019 09:21:51 UTC] PHP Notice:  Undefined variable: upuser in /home/mdtmscom/presensi.mediatamasolo.com/Admin/Proses/proses_sales.php on line 60

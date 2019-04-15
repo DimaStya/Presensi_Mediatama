@@ -1,0 +1,56 @@
+[10-Jan-2019 05:28:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/belum_presensi.php on line 154
+[10-Jan-2019 23:04:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/belum_presensi.php on line 154
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 59
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: username in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 91
+[11-Jan-2019 09:42:08 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 92
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 59
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: username in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 91
+[12-Jan-2019 03:30:24 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 92
+[16-Jan-2019 08:58:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/belum_presensi.php on line 154
+[16-Jan-2019 08:58:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/belum_presensi.php on line 154
+[17-Jan-2019 08:51:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[17-Jan-2019 08:51:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/15476898212171268462923543831635.jpg' is not a valid JPEG file in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[17-Jan-2019 08:51:33 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 38
+[17-Jan-2019 08:51:33 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 41
+[26-Jan-2019 04:25:57 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 68
+[26-Jan-2019 04:25:58 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:25:58 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:25:58 UTC] PHP Notice:  Undefined index: username in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:25:58 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 100
+[26-Jan-2019 04:25:58 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 101
+[26-Jan-2019 11:25:58 Asia/Jakarta] PHP Notice:  Undefined index: kode in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 158
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 59
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: username in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 66
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 91
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/index.php on line 92
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 68
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: username in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 75
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: nama in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 100
+[26-Jan-2019 04:26:02 UTC] PHP Notice:  Undefined index: jabatan in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 101
+[26-Jan-2019 11:26:02 Asia/Jakarta] PHP Notice:  Undefined index: kode in /home/mdtmscom/presensi.mediatamasolo.com/Area/presensi.php on line 158
+[28-Jan-2019 09:14:12 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[28-Jan-2019 09:14:12 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/15486415724118442266566786925673.jpg' is not a valid JPEG file in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[28-Jan-2019 09:14:12 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 38
+[28-Jan-2019 09:14:12 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 41
+[29-Jan-2019 09:03:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[29-Jan-2019 09:03:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/15487273421671482828184208664690.jpg' is not a valid JPEG file in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[29-Jan-2019 09:03:09 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 38
+[29-Jan-2019 09:03:09 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 41
+[30-Jan-2019 09:37:22 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[30-Jan-2019 09:37:22 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/15488158011868211453136295841976.jpg' is not a valid JPEG file in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 37
+[30-Jan-2019 09:37:22 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 38
+[30-Jan-2019 09:37:22 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/mdtmscom/presensi.mediatamasolo.com/Area/proses_presensi.php on line 41
